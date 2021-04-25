@@ -10,6 +10,9 @@
 
 .footer{
     background-color:  rgb(219, 198, 6);
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
 
 .cuerpo{
@@ -59,7 +62,7 @@
     background-color: rgb(219, 198, 6);
     display: block;
     border-radius: 70px;
-    padding-bottom: 40px;
+    padding-bottom: 170px;
     overflow:auto;
 }
 
@@ -77,9 +80,8 @@
 }
 
 .ingredientes{
-    display: block;
     float: center;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-left: 280px;
     margin-right: 280px;
     padding-bottom: 2cm;
@@ -95,6 +97,35 @@
     padding-bottom: 40px;
     overflow:auto;
     position: relative;
+}
+
+.lista{
+    margin-top: 60px;
+    margin-left: 260px;
+    margin-right: 260px;
+    border: solid 5px;
+    border-radius: 30px;
+    background-color: rgb(201, 197, 197);
+}
+
+.precio{
+    text-align: center;
+    margin-right: 3cm;
+    border: solid 2px;
+    padding-left: 20cm;
+    width: 10px;
+    font-size: 50px;
+    background-color: black;
+}
+
+ul{
+    text-align: center;
+    padding-right: 9cm;
+    font-size: large;
+}
+
+#letraprecio{
+    color:white;
 }
 
 
