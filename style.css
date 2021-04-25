@@ -1,3 +1,13 @@
 .card-text{
     text-align:justify;
 }
+
+#letras{
+    color:white; 
+    background: crimson;
+    font-size: 1cm;
+}
+
+.footer{
+    background-color: gray;
+}
