@@ -54,3 +54,28 @@
     width: 29.4cm;
 
 }
+
+.ficha{
+    background-color: red;
+    display: block;
+    justify-content: center;
+    border-radius: 70px;
+    overflow:auto;
+}
+
+#fotos{
+    height: 300px;
+    border: 5px solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 50%;
+}
+
+#titulo{
+    margin-top: 1cm;
+}
+
+.descripcion{
+    margin-left: 10px;
+}
