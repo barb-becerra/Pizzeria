@@ -9,5 +9,18 @@
 }
 
 .footer{
-    background-color: gray;
+    background-color: rgb(230, 230, 100);
+}
+
+.cuerpo{
+     background-image: url(img/bg2.jpg);   
+}
+
+.categorias{
+    background-color: red;
+}
+
+.header{
+    width: 30px;
+    height: 30px;
 }
