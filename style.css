@@ -56,16 +56,16 @@
 }
 
 .ficha{
-    background-color: red;
+    background-color: rgb(219, 198, 6);
     display: block;
-    justify-content: center;
     border-radius: 70px;
+    padding-bottom: 40px;
     overflow:auto;
 }
 
 #fotos{
     height: 300px;
-    border: 5px solid;
+    border: 3px solid;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
@@ -76,6 +76,26 @@
     margin-top: 1cm;
 }
 
-.descripcion{
-    margin-left: 10px;
+.ingredientes{
+    display: block;
+    float: center;
+    margin-top: 20px;
+    margin-left: 280px;
+    margin-right: 280px;
+    padding-bottom: 2cm;
+    padding-right: 320px;
+    border-radius: 20px;
+    background-color: red;
+    border: solid;
 }
+
+.prueba{
+    background-color:red;
+    border-radius: 70px;
+    padding-bottom: 40px;
+    overflow:auto;
+    position: relative;
+}
+
+
+
