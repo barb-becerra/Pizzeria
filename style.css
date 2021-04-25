@@ -9,18 +9,48 @@
 }
 
 .footer{
-    background-color: rgb(230, 230, 100);
+    background-color:  rgb(219, 198, 6);
 }
 
 .cuerpo{
      background-image: url(img/bg2.jpg);   
 }
 
-.categorias{
-    background-color: red;
-}
 
 .header{
     width: 30px;
     height: 30px;
+}
+
+.margen{
+    margin-right: 2cm;
+    font-size: 0.5cm;
+    font-style: italic;
+    width: 5cm;
+}
+
+.navbar{
+    background-color: rgb(230, 230, 100);
+}
+
+.slogan{
+    text-align: center;
+    background-color:  rgb(219, 198, 6);
+    width: 29.4cm;
+    height: 4cm;
+}
+
+
+.categorias{
+    text-align: center;
+    background-color:  rgb(219, 198, 6);
+    width: 29.4cm;
+    height: 2cm;
+}
+
+.cards{
+    text-align: center;
+    background-color:  rgb(219, 198, 6);
+    width: 29.4cm;
+
 }
